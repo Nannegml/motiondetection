@@ -87,7 +87,6 @@ public class MovementDetector2 {
                 e.printStackTrace();
             }
 
-            // Set the current frame as the previous frame for the next iteration
         }
 
     }
