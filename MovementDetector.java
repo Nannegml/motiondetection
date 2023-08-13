@@ -18,7 +18,7 @@ import org.opencv.video.BackgroundSubtractor;
 import org.opencv.video.Video;
 import org.opencv.videoio.VideoCapture;
 
-public class MovementDetector2 {
+public class MovementDetector {
     public static void main(String[] args) {
         // Load OpenCV library
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
